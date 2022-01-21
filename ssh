@@ -1,0 +1,4 @@
+$ mkdir planets
+$ cd planets
+$ git init
+$ git remote add origin
