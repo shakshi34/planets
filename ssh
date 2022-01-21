@@ -1,4 +1,5 @@
 $ mkdir planets
 $ cd planets
 $ git init
-$ git remote add origin
+$ git remote add origin git@github.com:shakshi34/planets.git
+$ git remote -v
